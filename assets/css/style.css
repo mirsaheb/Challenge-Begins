@@ -43,3 +43,122 @@ text-decoration: none;
    
  
   }
+
+  .wy-development{
+    margin-top: 30px;
+  }
+  
+    .dev-bg {
+        background: rgb(243, 242, 242);
+        border-radius: 15px;
+      }
+  
+  .dev-content{
+    
+    padding: 50px 0px;
+    border-radius: 10px;
+  }
+  .dev-content p {
+    margin-top: 30px;
+  }
+  .coding {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 80px;
+    background: #FFF;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .cod-detail p {
+    margin: 37px 0;
+  }
+
+    .cod-img{
+        margin-right: 80px;
+    
+  }
+   button a {
+    text-decoration: none;
+    
+    color: #333;
+
+  }
+  .modern_system {
+    background-color: #fff;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 80px;
+    border-radius: 10px;
+  }
+  .modern_img {
+    margin-left: 50px;
+    width: 30%;
+  }
+  .nodern-detail {
+    width: 70%;
+    
+  }
+  .nodern-detail h2, p{
+    margin-top: 30px;
+    width: 80%;
+  }
+
+  button {
+    width: 116px;
+    height: 35px;
+    border: 1px solid gray;
+    background-color: #FFF;
+    margin: 25px 0px;
+  }
+  .yt_video {
+    margin: 30px;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    width: 940px;
+  }
+  .course {
+    display: flex;
+    justify-content: space-between;
+    /* padding: 20px; */
+  }
+  .course div {
+    padding: 20px;
+    border-radius: 5px;
+    width: 33.33%;
+    margin: 15px;
+  }
+  .course a{
+    margin-top: 30px;
+    color: #333;
+  }
+  .course p {
+    margin-bottom: 30px !important;
+  }
+  .html p {
+    margin-bottom: 30px !important;
+  }
+  .html{
+    background-color: rgb(248, 240, 232);
+  }
+.css{
+  background-color: #eaf5fc;
+}
+.j_script{
+  background-color: rgb(250, 250, 239);
+}
+
+.react{
+  display: flex;
+  justify-content: start;
+  justify-items: ;
+}
+.node_js{
+  display: flex;
+  justify-content: start;
+}
+.mongo_db{
+  display: flex;
+  justify-content: start;
+}
